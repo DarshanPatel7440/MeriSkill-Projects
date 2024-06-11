@@ -1,6 +1,6 @@
 # MeriSkill-Projects
 
-# 1. Diabities Prediction
+# 1. Diabetes Prediction
 The goal of this project is to develop a predictive model that can accurately determine whether an individual has diabetes based on specific health metrics. The project workflow includes data preprocessing, model development, and deployment of the model as a web application.
 1. Data Source: The dataset used for this project is the PIMA Indian Diabetes Database, which contains various health-related attributes.
 2. Algorithms Used: Various machine learning algorithms such as Logistic Regression, and Support Vector Machine (SVM) were tested.
